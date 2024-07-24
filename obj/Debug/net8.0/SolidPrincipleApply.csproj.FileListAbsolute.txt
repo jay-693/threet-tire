@@ -1,0 +1,15 @@
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.AssemblyInfoInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.AssemblyInfo.cs
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.csproj.CoreCompileInputs.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.sourcelink.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\bin\Debug\net8.0\SolidPrincipleApply.exe
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\bin\Debug\net8.0\SolidPrincipleApply.deps.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\bin\Debug\net8.0\SolidPrincipleApply.runtimeconfig.json
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\bin\Debug\net8.0\SolidPrincipleApply.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\bin\Debug\net8.0\SolidPrincipleApply.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\refint\SolidPrincipleApply.dll
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.pdb
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\SolidPrincipleApply.genruntimeconfig.cache
+C:\Users\Vijay Vattikuti\source\repos\ConsoleApp5\SolidPrincipleApply\obj\Debug\net8.0\ref\SolidPrincipleApply.dll
